@@ -1,4 +1,4 @@
-clustergrammer2             
+clustergrammer2==0.18.0            
 clustergrammer_widget       
 ipywidgets                  
 pandas                      
