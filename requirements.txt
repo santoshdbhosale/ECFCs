@@ -1,6 +1,6 @@
-clustergrammer2
-clustergrammer_widget
-ipywidgets
-pandas
-numpy
+clustergrammer2==0.18.0
+clustergrammer_widget==1.13.3
+ipywidgets==7.6.5
+pandas==1.4.4
+numpy==1.23.0
 session_info
